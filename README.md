@@ -151,7 +151,7 @@ Example (MATLAB):
 ```matlab
 R_nondim_All{1,i} = [ ... ]   % non-dimensional radius curve
 t_nondim_All{1,i} = [ ... ]   % non-dimensional time curve
-lambda_max_mean   = 5.99      % scalar (recommended)
+lambda_max_mean   = [ ... ]
 ```
 
 ---
